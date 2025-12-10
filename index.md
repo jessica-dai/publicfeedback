@@ -1,8 +1,6 @@
 ---
 layout: home
-title: Home
+title: Public Feedback for AI Evals
 ---
 
-Welcome to Public Feedback!
-
-This site is built with Jekyll and hosted on GitHub Pages.
+Coming soon! Email jessicadai@berkeley.edu with questions.

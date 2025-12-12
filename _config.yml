@@ -7,3 +7,7 @@ url: "https://jessica-dai.github.io/publicfeedback.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+
+# Header links
+header_pages:
+  - about.md

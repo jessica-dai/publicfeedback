@@ -3,10 +3,10 @@ layout: home
 title: Public Feedback for AI Evals
 ---
 
-AI evals are missing two key ingredients: First, substantive analysis of the post-deployment phase, as real-world users interact with AI systems for their actual use cases; second, the ability for end-users, or members of the general public, to provide feedback that reflects their experiences. After all, it is not only AI researchers and developers who can form judgments on "good" or "bad" system behavior. And yet: in other domains, collecting and analyzing "reports" is a well-established protocol for ensuring ongoing safety of high-stakes systems in real time. 
+AI evals are missing two key ingredients: First, substantive analysis of the post-deployment phase, as real-world users interact with AI systems for their actual use cases; second, the ability for end-users, or members of the general public, to provide feedback that reflects their experiences. After all, it is not only AI researchers and developers who can form judgments on "good" or "bad" system behavior. And yet: in other domains, like medicine or consumer electronics, collecting and analyzing "reports" is a well-established protocol for ensuring ongoing safety of high-stakes systems in real time. 
 
 What would it take to get this to work for AI systems? This website highlights research papers and product prototypes that seek to make this vision a reality. 
-As a starting point, we recommend the following collection of manuscripts that sketch out relevant legal, technical, and policy frameworks; while their proposals are simular, each provides complementary analysis. 
+As a starting point, we recommend the following collection of manuscripts that sketch out relevant legal, technical, and policy frameworks; while their proposals are similar, each provides complementary analysis. 
 
 * **Sample forms and policy recommendations** —  
   [In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI](https://arxiv.org/abs/2503.16861){:target="_blank"} (Longpre et al., 2025)

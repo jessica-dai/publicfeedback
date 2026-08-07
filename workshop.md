@@ -13,11 +13,9 @@ August 17–18, 2026 ⋅ Berkeley, CA
 <details markdown="1">
 <summary>Logistics</summary>
 
-The workshop will take place at the [BIDS AI Futures Lab]((https://bids.berkeley.edu/news/announcing-ai-futures-lab-visionary-partnership-between-bids-and-uc-investments){:target="_blank"}), which is on the 7th floor of the Downtown Berkeley WeWork building at [**2120 University Ave**](https://maps.app.goo.gl/G11ptYTGnDvSvGW17){:target="_blank"}. The entrance is on University, next door to the Blue Bottle. 
+The workshop will take place at the [BIDS AI Futures Lab]((https://bids.berkeley.edu/news/announcing-ai-futures-lab-visionary-partnership-between-bids-and-uc-investments){:target="_blank"}), which is on the 7th floor of the Downtown Berkeley WeWork at [**2120 University Ave**](https://maps.app.goo.gl/G11ptYTGnDvSvGW17){:target="_blank"}. The entrance is on University, next door to the Blue Bottle. For planning purposes, we are a 4-minute walk from the Downtown Berkeley BART station, and a 15-20-minute walk from the Women's Faculty Club. 
 
-The space is card-access only; we will have someone downstairs during the 9-10am arrival window on both days to badge you up. Please try to come within that hour! 
-
-We are a 4-minute walk from the Downtown Berkeley BART station, and a 15-20-minute walk from the Women's Faculty Club. 
+The space is card-access only; we will have someone downstairs during the 9-10am arrival window on both days to badge you up. Please try to come within that hour! If you are not on the list below and would like to attend, please email Jessica.
 
 </details>
 

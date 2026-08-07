@@ -22,14 +22,14 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 
 <details markdown="1">
 <summary>Schedule</summary>
-(Session topics & assignments tbd)
+(Session topics & assignments pending a last couple of talk topic/abstracts! Will be released Aug 10)
 
 *Monday, August 17*
 
 | Time | Activity |
 |------|----------|
 | 9:00am | <span class="placeholder">breakfast & mingling</span> |
-| 10:00am | <input type="checkbox" id="s1-toggle" class="row-toggle-input"><label for="s1-toggle" class="row-toggle-label">Session 1: <strong><em>What are we doing here?</em></strong></label><span class="row-detail">TBD</span> |
+| 10:00am | <input type="checkbox" id="s1-toggle" class="row-toggle-input"><label for="s1-toggle" class="row-toggle-label">Session 1</label><span class="row-detail">TBD</span> |
 | 11:15am | <span class="placeholder">break</span> |
 | 11:30am | <input type="checkbox" id="s2-toggle" class="row-toggle-input"><label for="s2-toggle" class="row-toggle-label">Session 2</label><span class="row-detail">TBD</span> |
 | 12:45pm | <span class="placeholder">catered lunch</span> |
@@ -50,8 +50,8 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 | 12:45pm | <span class="placeholder">catered lunch</span> |
 | 2:30pm | <input type="checkbox" id="s7-toggle" class="row-toggle-input"><label for="s7-toggle" class="row-toggle-label">Session 7</label><span class="row-detail">TBD</span> |
 | 3:45pm | <span class="placeholder">break</span> |
-| 4:00pm | <input type="checkbox" id="s8-toggle" class="row-toggle-input"><label for="s8-toggle" class="row-toggle-label">Bonus session/ group discussion</label><span class="row-detail">TBD</span> |
-| 5:30pm | <span class="placeholder">event ends</span> |
+| 4:00pm | <input type="checkbox" id="s8-toggle" class="row-toggle-input"><label for="s8-toggle" class="row-toggle-label">Bonus session: ***Where do we go from here?***</label><span class="row-detail">We'll close with a discussion with the whole group on our vision for next steps. Some questions I have in mind.... What concrete medium-term outcomes do we hope for, and what near-term actions need to be taken (and by whom)? What roles should academics, civil society orgs, governments/policymakers, etc. play? If twitter is to be believed, there is soon to be lots (hundreds of millions, perhaps?) of philanthropic capital broadly available. How can "we" access that, and what would "we" do with 0.5, 1, 10, 100 million? </span> |
+| 5:30pm | <span class="placeholder">workshop ends</span> |
 
 *Each 90-minute session will have three lightning talks + Q&A (15m each); a 30m panel; and a 15m break.*
 

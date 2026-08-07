@@ -1,6 +1,6 @@
 ---
 layout: home
-# title: Public feedback for AI (& beyond)
+title: Public feedback for AI (& beyond)
 ---
 
 The real-world impacts of AI systems are increasingly concrete: consumer AI products are reaching billions of users, while institutional actors are beginning to take significant and consequential actions based on perceived or predicted future AI development.

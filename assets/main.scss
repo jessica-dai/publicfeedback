@@ -56,10 +56,6 @@ table {
   margin: 0.5em 0 1em;
   border: none;
 
-  thead {
-    display: none;
-  }
-
   th, td {
     padding: 0.15em 1em 0.15em 0;
     text-align: left;
@@ -82,9 +78,41 @@ table {
     border-bottom: none;
   }
 
-  td em {
+  .placeholder {
     color: #888;
     font-style: italic;
+  }
+
+  /* Pure-CSS expand/collapse for session detail text, nested inside a
+     table cell. Kramdown escapes block tags (details/ul/li) in table
+     cells, so this uses only span-level tags (input/label/span), which
+     kramdown passes through untouched even inside a pipe-table cell. */
+  .row-toggle-input {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .row-toggle-label {
+    cursor: pointer;
+
+    &::after {
+      content: " [details]";
+      font-size: 0.75em;
+      font-style: italic;
+      color: #1155cc;
+    }
+  }
+
+  .row-detail {
+    display: none;
+    color: #555;
+    font-size: 0.9em;
+  }
+
+  .row-toggle-input:checked ~ .row-detail {
+    display: block;
+    margin-top: 0.3em;
   }
 }
 

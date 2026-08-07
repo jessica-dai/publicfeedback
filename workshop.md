@@ -28,30 +28,30 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 
 | Time | Activity |
 |------|----------|
-| 9:00am | *[breakfast & mingling]* |
-| 10:00am | Session 1 |
-| 11:15am | *[break]* |
-| 11:30am | Session 2 |
-| 12:45pm | *[catered lunch]* |
-| 2:30pm | Session 3 |
-| 3:45pm | *[break]* |
-| 4:00pm | Session 4 |
-| 5:30pm | *[break/transit time]* |
+| 9:00am | <span class="placeholder">breakfast & mingling</span> |
+| 10:00am | <input type="checkbox" id="s1-toggle" class="row-toggle-input"><label for="s1-toggle" class="row-toggle-label">Session 1: <strong><em>What are we doing here?</em></strong></label><span class="row-detail">TBD</span> |
+| 11:15am | <span class="placeholder">break</span> |
+| 11:30am | <input type="checkbox" id="s2-toggle" class="row-toggle-input"><label for="s2-toggle" class="row-toggle-label">Session 2</label><span class="row-detail">TBD</span> |
+| 12:45pm | <span class="placeholder">catered lunch</span> |
+| 2:30pm | <input type="checkbox" id="s3-toggle" class="row-toggle-input"><label for="s3-toggle" class="row-toggle-label">Session 3</label><span class="row-detail">TBD</span> |
+| 3:45pm | <span class="placeholder">break</span> |
+| 4:00pm | <input type="checkbox" id="s4-toggle" class="row-toggle-input"><label for="s4-toggle" class="row-toggle-label">Session 4</label><span class="row-detail">TBD</span> |
+| 5:30pm | <span class="placeholder">break/transit time</span> |
 | 6:00pm | Dinner offsite |
 
 *Tuesday, August 18*
 
 | Time | Activity |
 |------|----------|
-| 9:00am | *[breakfast & mingling]* |
-| 10:00am | Session 5 |
-| 11:15am | *[break]* |
-| 11:30am | Session 6 |
-| 12:45pm | *[catered lunch]* |
-| 2:30pm | Session 7 |
-| 3:45pm | *[break]* |
-| 4:00pm | Bonus session/ group discussion |
-| 5:30pm | *[event ends]* |
+| 9:00am | <span class="placeholder">breakfast & mingling</span> |
+| 10:00am | <input type="checkbox" id="s5-toggle" class="row-toggle-input"><label for="s5-toggle" class="row-toggle-label">Session 5</label><span class="row-detail">TBD</span> |
+| 11:15am | <span class="placeholder">break</span> |
+| 11:30am | <input type="checkbox" id="s6-toggle" class="row-toggle-input"><label for="s6-toggle" class="row-toggle-label">Session 6</label><span class="row-detail">TBD</span> |
+| 12:45pm | <span class="placeholder">catered lunch</span> |
+| 2:30pm | <input type="checkbox" id="s7-toggle" class="row-toggle-input"><label for="s7-toggle" class="row-toggle-label">Session 7</label><span class="row-detail">TBD</span> |
+| 3:45pm | <span class="placeholder">break</span> |
+| 4:00pm | <input type="checkbox" id="s8-toggle" class="row-toggle-input"><label for="s8-toggle" class="row-toggle-label">Bonus session/ group discussion</label><span class="row-detail">TBD</span> |
+| 5:30pm | <span class="placeholder">event ends</span> |
 
 *Each 90-minute session will have three lightning talks + Q&A (15m each); a 30m panel; and a 15m break.*
 

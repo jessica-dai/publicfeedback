@@ -3,8 +3,6 @@ layout: home
 # title: Public feedback for AI (& beyond)
 ---
 
-##  Public feedback for AI (& beyond)
-
 The real-world impacts of AI systems are increasingly concrete: consumer AI products are reaching billions of users, while institutional actors are beginning to take significant and consequential actions based on perceived or predicted future AI development.
 
 Yet the public has very few channels for expressing their views about their experiences with AI — despite gestures towards ‘democratic’ approaches to (the governance of) AI over the past several years. At the same time, the information ecosystem around AI and its impacts is more fragmented — and less trustworthy — than ever; closed AI companies cannot be trusted as good-faith sources of truth, yet retain exclusive access to crucial data about actual usage.

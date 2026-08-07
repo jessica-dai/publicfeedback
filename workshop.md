@@ -85,6 +85,7 @@ We are a 4-minute walk from the Downtown Berkeley BART station, and a 15-20-minu
 - [Meg Young](https://publictech.space/){:target="_blank"} (Data & Society)
 - [Andrea Mock](https://andreammock.com/){:target="_blank"} (Vals AI)
 - [Meghana Kotcherlakota](https://www.linkedin.com/in/meghana-kotcherlakota/){:target="_blank"} (Vals AI)
+- [Stanley Hua](https://stanhua.rbind.io/){:target="_blank} (UC Berkeley/UCSF)
 
 </details>
 

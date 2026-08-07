@@ -8,6 +8,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+sass:
+  quiet_deps: true
+  silence_deprecations: [import, global-builtin, color-functions]
+
 # Header links
 header_pages:
-  - about.md
+  # - about.md
+  # - resources.md

@@ -1,0 +1,108 @@
+---
+# Front matter required for Jekyll to process this SCSS file.
+---
+
+@import "minima";
+
+/* ---- Narrower content column ---- */
+.wrapper {
+  max-width: 600px;
+}
+
+/* ---- Simple serif styling ---- */
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #111;
+}
+
+/* Spacers push the content block to sit 1/3 of the way down the viewport
+   (1 part space above, 2 parts below) instead of dead center. */
+body::before {
+  content: "";
+  flex: 1;
+}
+
+body::after {
+  content: "";
+  flex: 2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+details {
+  margin: 1em 0;
+
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  > :not(summary) {
+    margin-top: 0.75em;
+  }
+}
+
+/* ---- Simple, borderless tables ---- */
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  color: inherit;
+  margin: 0.5em 0 1em;
+  border: none;
+
+  thead {
+    display: none;
+  }
+
+  th, td {
+    padding: 0.15em 1em 0.15em 0;
+    text-align: left;
+    border: none;
+  }
+
+  th:first-child, td:first-child {
+    width: 5.5em;
+  }
+
+  td {
+    border-bottom: 1px solid #ddd;
+  }
+
+  tr, tr:nth-child(even) {
+    background: none;
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+
+  td em {
+    color: #888;
+    font-style: italic;
+  }
+}
+
+/* Don't stretch the content area to fill the viewport, so the footer
+   sits just below the text instead of being pinned to the bottom. */
+.page-content {
+  flex: none;
+}
+
+/* ---- About link just below the end of the body text ---- */
+.site-footer {
+  border-top: none;
+  margin-top: 1.5em;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+
+  .page-link {
+    display: block;
+    margin-bottom: 0.3em;
+  }
+}

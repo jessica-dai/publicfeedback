@@ -1,31 +1,12 @@
 ---
 layout: home
-title: Public Feedback for AI Evals
+title: Public feedback for AI (& beyond)
 ---
 
-AI evals are missing two key ingredients: First, substantive analysis of the post-deployment phase, as real-world users interact with AI systems for their actual use cases; second, the ability for end-users, or members of the general public, to provide feedback that reflects their experiences. After all, it is not only AI researchers and developers who can form judgments on "good" or "bad" system behavior. And yet: in other domains, like medicine or consumer electronics, collecting and analyzing "reports" is a well-established protocol for ensuring ongoing safety of high-stakes systems in real time. 
+The real-world impacts of AI systems are increasingly concrete: consumer AI products are reaching billions of users, while institutional actors are beginning to take significant and consequential actions based on perceived or predicted future AI development.
 
-What would it take to get this to work for AI systems? This website highlights research papers and product prototypes that seek to make this vision a reality. 
-As a starting point, we recommend the following collection of manuscripts that sketch out relevant legal, technical, and policy frameworks; while their proposals are similar, each provides complementary analysis. 
+Yet the public has very few channels for expressing their views about their experiences with AI — despite gestures towards ‘democratic’ approaches to (the governance of) AI over the past several years. At the same time, the information ecosystem around AI and its impacts is more fragmented — and less trustworthy — than ever; closed AI companies cannot be trusted as good-faith sources of truth, yet retain exclusive access to crucial data about actual usage.
 
-* **Sample forms and policy recommendations** —  
-  [In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI](https://arxiv.org/abs/2503.16861){:target="_blank"} (Longpre et al., 2025)
+**Members of the public hold valuable information about (the impacts of) AI, and we should learn from them.** Specifically, crowdsourced feedback has the potential to help identify systematic, societal-level issues, including unknown unknowns that emerge only gradually; moreover, this type of information is a public good that should not remain behind the gates of disproportionately powerful companies.
 
-* **Substantive and normative arguments and future research directions** —  
-  [Aggregated Individual Reporting for Post-Deployment Evaluation](https://arxiv.org/abs/2506.18133){:target="_blank"} (Dai et al., 2025)
-
-* **Design principles from reporting systems in other domains** —  
-  [Known Unknowns and Unknown Unknowns: Designing a Scalable Adverse Event Reporting System for AI](https://ojs.aaai.org/index.php/AIES/article/view/36607){:target="_blank"} (Gailmard et al., 2025)
-
-
-Together, these works give one pathway towards concrete mechanisms for safety and accountability in deployed AI systems.
-
-<!-- 
-#### Research
-
-#### Real-world deployments 
-
-#### Disambiguation
-* Why not ai incidents dot com (or OECD etc)?
-* 
--->
+*More information about the August 2026 workshop [here](/workshop/).*

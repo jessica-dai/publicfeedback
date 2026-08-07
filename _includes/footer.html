@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    {%- unless page.url == "/" -%}
+      <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+    {%- endunless -%}
+    {%- for path in site.header_pages -%}
+      {%- assign my_page = site.pages | where: "path", path | first -%}
+      {%- if my_page.title -%}
+        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+</footer>

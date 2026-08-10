@@ -70,9 +70,13 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 - [Eve Fleisig](https://www.efleisig.com/){:target="_blank"} (Princeton)
 - [Lindsey Gailmard](https://www.lgailmard.com/){:target="_blank"} (Stanford)
 - [Ira Globus-Harris](https://globusharris.github.io/){:target="_blank"} (Cornell)
+- [Stanley Hua](https://stanhua.rbind.io/){:target="_blank"} (UC Berkeley/UCSF)
+- [Meghana Kotcherlakota](https://www.linkedin.com/in/meghana-kotcherlakota/){:target="_blank"} (Vals AI)
 - [Sanjay Krishnan](https://sanjayk.io/){:target="_blank"} (University of Chicago)
 - [Tomás León](https://tomasleon.com/){:target="_blank"} (California Dept. of Public Health)
 - [Shayne Longpre](https://www.shaynelongpre.com/){:target="_blank"} (Anthropic)
+- [Evi Micha](https://evi-micha.github.io/index.html){:target="_blank"} (University of Southern California)
+- [Andrea Mock](https://andreammock.com/){:target="_blank"} (Vals AI)
 - [Humphrey Obuobi](https://www.linkedin.com/in/hobuobi/){:target="_blank"} (BLOOM Project)
 - [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/){:target="_blank"} (UC Berkeley)
 - [Deb Raji](https://rajiinio.github.io/){:target="_blank"} (UC Berkeley)
@@ -81,9 +85,6 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 - [Jasmine Sun](https://jasmi.news/){:target="_blank"} (independent)
 - [Nitasha Tiku](https://www.washingtonpost.com/people/nitasha-tiku/){:target="_blank"} (Washington Post)
 - [Meg Young](https://publictech.space/){:target="_blank"} (Data & Society)
-- [Andrea Mock](https://andreammock.com/){:target="_blank"} (Vals AI)
-- [Meghana Kotcherlakota](https://www.linkedin.com/in/meghana-kotcherlakota/){:target="_blank"} (Vals AI)
-- [Stanley Hua](https://stanhua.rbind.io/){:target="_blank} (UC Berkeley/UCSF)
 
 </details>
 

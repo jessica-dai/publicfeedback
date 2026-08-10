@@ -21,9 +21,9 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 
 
 <details markdown="1">
-<summary>Schedule</summary>
+<summary>Tentative schedule</summary>
 
-*Each 90-minute session will have three lightning talks + Q&A (15m each); a 30m panel/group discussion; and a 15m break.*
+*Each 90-minute session will have three lightning talks + Q&A (15m each); a 30m panel/group discussion; and a 15m break. Some sessions may move around pending availabilities.*
 
 
 **Monday, August 17**

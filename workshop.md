@@ -23,7 +23,7 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 <details markdown="1">
 <summary>Tentative schedule</summary>
 
-*Each 90-minute session will have three lightning talks + Q&A (15m each); a 30m panel/group discussion; and a 15m break. Some sessions may move around pending availabilities.*
+*Each 75-minute session will have three lightning talks + Q&A (15m each) and a 30m panel/ group discussion. Some sessions may move around pending availabilities and talk updates.*
 
 
 **Monday, August 17**
@@ -48,7 +48,7 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 | 9:00am | <span class="placeholder">breakfast & mingling</span> |
 | 10:00am | <input type="checkbox" id="s5-toggle" class="row-toggle-input"><label for="s5-toggle" class="row-toggle-label">Session 5: ***Statistical & algorithmic perspectives***</label><span class="row-detail">• **Algorithmic Hooks for Participatory Machine Learning** ([Ira Globus-Harris](https://globusharris.github.io/){:target="_blank"})<br>• **Gathering Evidence Under Resource-Information Constraints** ([Sarah Cen](https://shcen.github.io/){:target="_blank"})</span> |
 | 11:15am | <span class="placeholder">break</span> |
-| 11:30am | <input type="checkbox" id="s6-toggle" class="row-toggle-input"><label for="s6-toggle" class="row-toggle-label">Session 6: ***Where do we get the data?***</label><span class="row-detail">• **Democratizing Data on Actual Usage** ([Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/){:target="_blank"})<br>• **Charting the Landscape of Human-AI Interaction Data: User Studies, In-the-Wild Logs, and the Role of Public Feedback** ([Serina Chang](https://serinachang5.github.io/){:target="_blank"})<br>• **Crowdsourcing as Evaluation, Crowdsourcing as Intervention** ([Eve Fleisig](https://www.efleisig.com/){:target="_blank"})</span> |
+| 11:30am | <input type="checkbox" id="s6-toggle" class="row-toggle-input"><label for="s6-toggle" class="row-toggle-label">Session 6: ***Where do we get the data?***</label><span class="row-detail">• **AI research has become misaligned with what people want from AI** ([Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/){:target="_blank"})<br>• **Charting the Landscape of Human-AI Interaction Data: User Studies, In-the-Wild Logs, and the Role of Public Feedback** ([Serina Chang](https://serinachang5.github.io/){:target="_blank"})<br>• **Crowdsourcing as Evaluation, Crowdsourcing as Intervention** ([Eve Fleisig](https://www.efleisig.com/){:target="_blank"})</span> |
 | 12:45pm | <span class="placeholder">catered lunch</span> |
 | 2:30pm | <input type="checkbox" id="s7-toggle" class="row-toggle-input"><label for="s7-toggle" class="row-toggle-label">Session 7: ***Pilot projects & early lessons***</label><span class="row-detail">• **A Public AI Observatory** ([Shayne Longpre](https://www.shaynelongpre.com/){:target="_blank"})<br>• **Evaluating AI for Public Benefits and Child Safety** ([Meghana Kotcherlakota](https://www.linkedin.com/in/meghana-kotcherlakota/){:target="_blank"} and [Andrea Mock](https://andreammock.com/){:target="_blank"})<br>• **Collective Input into AI: Governance and Public Sensemaking** ([Joal Stein](https://x.com/JoalStein){:target="_blank"})</span> |
 | 3:45pm | <span class="placeholder">break</span> |

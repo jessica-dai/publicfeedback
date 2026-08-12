@@ -13,9 +13,13 @@ August 17–18, 2026 ⋅ Berkeley, CA
 <details markdown="1">
 <summary>Logistics</summary>
 
-The workshop will take place at the [BIDS AI Futures Lab]((https://bids.berkeley.edu/news/announcing-ai-futures-lab-visionary-partnership-between-bids-and-uc-investments){:target="_blank"}), which is on the 7th floor of the Downtown Berkeley WeWork at [**2120 University Ave**](https://maps.app.goo.gl/G11ptYTGnDvSvGW17){:target="_blank"}. The entrance is on University, next door to the Blue Bottle. For planning purposes, we are a 4-minute walk from the Downtown Berkeley BART station, and a 15-20-minute walk from the Women's Faculty Club. 
+The workshop will take place at Berkeley's new [Gateway](https://cdss.berkeley.edu/gateway){:target="_blank"} building at [**2300 Hearst Ave**](https://maps.app.goo.gl/s6LjtJa2sR2WCJ2u5){:target="_blank"}. 
+We'll be in Room 1420, which is across the plaza from the Gateway Cafe (through the doors to your right, if you're facing the building from Hearst, or to your left, if you're facing the building from main campus). 
+For planning purposes, we are a 12-15-minute walk from the Downtown Berkeley BART station and the Women's Faculty Club. 
 
-The space is card-access only; we will have someone downstairs during the 9-10am arrival window on both days to badge you up. Please try to come within that hour! If you are not on the list below and would like to attend, please email Jessica.
+The space is typically card-access only, but we will have it unlocked during the 9-10am arrival window (and during the lunch break) on both days. 
+Please try to come within that hour!
+If you are not on the list below and would like to attend, please email Jessica.
 
 </details>
 
@@ -88,5 +92,5 @@ The space is card-access only; we will have someone downstairs during the 9-10am
 
 </details>
 
-*We are grateful for support from the [Survival & Flourishing Fund](https://survivalandflourishing.fund/){:target="_blank"} and the [AI Futures Lab at the Berkeley Institute for Data Science](https://bids.berkeley.edu/news/announcing-ai-futures-lab-visionary-partnership-between-bids-and-uc-investments){:target="_blank"}.*
+*We are grateful for support from the [Survival & Flourishing Fund](https://survivalandflourishing.fund/){:target="_blank"}.*
 

@@ -27,7 +27,7 @@ If you are not on the list below and would like to attend, please email Jessica.
 <details markdown="1">
 <summary>Schedule</summary>
 
-*Each 75-minute session will have three lightning talks + Q&A (15m each) and a 30m panel/ group discussion. I'm hoping this schedule will be roughly final, but let me know if with any requests for last-min swaps.*
+*Each 75-minute session will have three lightning talks + Q&A (15m each) and a 30m panel/ group discussion. I'm hoping this schedule will be roughly final, but let me know if you have any requests for last-min swaps.*
 
 
 **Monday, August 17**

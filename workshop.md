@@ -25,9 +25,9 @@ If you are not on the list below and would like to attend, please email Jessica.
 
 
 <details markdown="1">
-<summary>Tentative schedule</summary>
+<summary>Schedule</summary>
 
-*Each 75-minute session will have three lightning talks + Q&A (15m each) and a 30m panel/ group discussion. Some sessions may move around pending availabilities and talk updates.*
+*Each 75-minute session will have three lightning talks + Q&A (15m each) and a 30m panel/ group discussion. I'm hoping this schedule will be roughly final, but let me know if with any requests for last-min swaps.*
 
 
 **Monday, August 17**
@@ -42,7 +42,7 @@ If you are not on the list below and would like to attend, please email Jessica.
 | 2:30pm | <input type="checkbox" id="s3-toggle" class="row-toggle-input"><label for="s3-toggle" class="row-toggle-label">Session 3: ***Lessons from other domains***</label><span class="row-detail">• **The Kinds of Questions Lawyers Ask About AI** ([Sanjay Krishnan](https://sanjayk.io/){:target="_blank"})<br>• **Public Risk Perception: Lessons from Public Health Responses** ([Tomás León](https://tomasleon.com/){:target="_blank"})<br>• **Evaluating AI in Healthcare with End-User Feedback** ([Irene Chen](https://irenechen.net/){:target="_blank"})</span> |
 | 3:45pm | <span class="placeholder">break</span> |
 | 4:00pm | <input type="checkbox" id="s4-toggle" class="row-toggle-input"><label for="s4-toggle" class="row-toggle-label">Session 4: ***Lessons from HCI: Methods and case studies***</label><span class="row-detail">• **Caution! AI at Work: Practical Challenges in Identifying and Rectifying Algorithmic Harms at Work** ([Samantha Dalal](https://www.samantha-dalal.com/){:target="_blank"})<br>• **Engaging Diverse People in AI Evaluation: Case Studies on AI Auditing and Red-Teaming** ([Wesley Deng](https://wesleydeng.com/){:target="_blank"})</span> |
-| 5:30pm | <span class="placeholder">break/transit time</span> |
+| 5:00pm | <span class="placeholder">break/transit time</span> |
 | 6:00pm | Dinner offsite |
 
 **Tuesday, August 18**
